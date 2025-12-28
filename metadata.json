@@ -1,0 +1,7 @@
+{
+  "name": "墨韻分析師 - Ink Rhythm Analyst",
+  "description": "融合中國書法藝術與電腦視覺技術的專業鑑賞平台，提供深度結構分析、相似度評分及創意貼圖生成。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
